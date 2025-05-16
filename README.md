@@ -1,4 +1,4 @@
-## Hi there 👋
+🌱 I’m currently learning with help from docs.github.com
 
 <!--
 **duh-itsbeeerg/duh-itsbeeerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
